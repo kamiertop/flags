@@ -1,2 +1,2 @@
 # flags
-Obtain the complete flags of the NIC
+> linux系统下获取网卡的flags
