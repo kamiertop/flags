@@ -4,3 +4,7 @@
 - env
   - os: centos8
   - go version: go1.21.5
+- usage: 
+  - `go get github.com/kamiertop/flags`
+  - `flags.GetAllFlags()`
+  - res: "UP", "BROADCAST", "RUNNING", "MULTICAST"
