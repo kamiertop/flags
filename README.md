@@ -7,4 +7,4 @@
 - usage: 
   - `go get github.com/kamiertop/flags`
   - `flags.GetAllFlags()`
-  - res: "UP", "BROADCAST", "RUNNING", "MULTICAST"
+  - `res: "UP", "BROADCAST", "RUNNING", "MULTICAST"`
